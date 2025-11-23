@@ -1,0 +1,6 @@
+Flask
+dnspython
+python-whois
+requests
+ipwhois
+pyOpenSSL
