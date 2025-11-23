@@ -135,4 +135,3 @@ This tool is for:
 Unauthorized scanning of external domains may be illegal.
 ---
 ## 🎉 You're All Set!
-This README.md is fully GitHub-ready. Paste it into your repo’s README.md file for proper formatting.
