@@ -69,8 +69,8 @@ domain-recon-tool/
 │   └── subdomains.txt
 └── templates/
     └── index.html
-```bash
----
+```
+
 ## ▶️ How to Use
 ### 1️⃣ Clone or Download
 ```bash
