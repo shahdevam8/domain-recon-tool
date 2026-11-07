@@ -54,6 +54,7 @@ Use it to:
 Everything runs **locally** — no tracking, no API rate-limits.
 ---
 ## 📁 Project Folder Structure
+```bash
 domain-recon-tool/
 │ app.py
 │ requirements.txt
@@ -68,6 +69,7 @@ domain-recon-tool/
 │   └── subdomains.txt
 └── templates/
     └── index.html
+```bash
 ---
 ## ▶️ How to Use
 ### 1️⃣ Clone or Download
@@ -119,7 +121,7 @@ Click **Fork** on GitHub.
 Enable **"Template Repository"** in settings. Users can click **Use this template**.
 ### ✔ Clone
 ```bash
-git clone https://github.com/YOUR-USERNAME/domain-recon-tool.git
+git clone https://github.com/shahdevam8/domain-recon-tool.git
 ```
 ### ✔ Download ZIP
 GitHub → Code → Download ZIP
